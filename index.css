@@ -5,7 +5,7 @@ body{
 
 #gyules1{
     position: absolute;
-    top:300px;
+    top:230px;
     right:200px;
     width: 650px;
     height: 650px;
@@ -13,7 +13,7 @@ body{
 
 #gyules2{
     position: absolute;
-    top:295px;
+    top:230px;
     left:125px;
     width: 650px;
     height: 650px;
@@ -21,13 +21,13 @@ body{
 
 #szoveg1{
     position: absolute;
-    top:200px;
+    top:150px;
     right:130px;
 }
 
 #szoveg2{
     position: absolute;
-    top:195px;
+    top:145px;
     left:130px;
 }
 
