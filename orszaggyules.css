@@ -33,3 +33,15 @@ p{
 .alahuzott{
     text-decoration: underline;
 }
+#kep1{
+    position: absolute;
+    bottom: 15px;
+    right: 30px;
+    height: 440px;
+    width: 550px;
+}
+#btn{
+    position: absolute;
+    bottom: 50px;
+    left: 30px;
+}
