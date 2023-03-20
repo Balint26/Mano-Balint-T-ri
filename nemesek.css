@@ -37,4 +37,11 @@ p{
     position: absolute;
     top:285px;
 }
+#kep1{
+    position: absolute;
+    bottom: 15px;
+    right: 30px;
+    height: 500px;
+    width: 700px;
+}
 
