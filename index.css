@@ -1,0 +1,41 @@
+body{
+    background-color: burlywood;
+    color:black; 
+}
+
+#gyules1{
+    position: absolute;
+    top:300px;
+    right:200px;
+    width: 650px;
+    height: 650px;
+}
+
+#gyules2{
+    position: absolute;
+    top:295px;
+    left:125px;
+    width: 650px;
+    height: 650px;
+}
+
+#szoveg1{
+    position: absolute;
+    top:200px;
+    right:130px;
+}
+
+#szoveg2{
+    position: absolute;
+    top:195px;
+    left:130px;
+}
+
+h1{
+    font-size:40px;
+    text-align: center;
+}
+
+p{
+    font-size:25px; 
+}
