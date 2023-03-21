@@ -39,3 +39,10 @@ h1{
 p{
     font-size:25px; 
 }
+
+#segitseg{
+    position: absolute;
+    top:30px;
+    left: 60px;
+    font-size:20px;
+}
